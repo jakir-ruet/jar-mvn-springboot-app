@@ -8,6 +8,7 @@
 mvn clean install # Build
 mvn test # Test
 mvn spring-boot:run # Run, Or
+java -jar /target/webapps # Run JAR Or
 java -jar /target/jar-mvn-springboot-app-0.0.1-SNAPSHOT.jar # Run JAR
 ```
 
